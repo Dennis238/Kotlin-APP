@@ -47,6 +47,8 @@
     <string name="title_activity_registro_nuevo">RegistroNuevo</string>
     <string name="title_activity_descripcion_lugar">DescripcionLugar</string>
     <string name="title_activity_politicas_completas2">PoliticasCompletas2</string>
+    <string name="title_activity_ubicaciones_anteriores">UbicacionesAnteriores</string>
+    <string name="title_activity_ingresar_voz">IngresarVoz</string>
 
 
 </resources>

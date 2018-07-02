@@ -23,7 +23,7 @@ class RegistroNuevo : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
 
-        botonEnviar.setOnClickListener{
+        botonEnviar2.setOnClickListener{
             view: View? -> irAActividadLugares()
         }
     }

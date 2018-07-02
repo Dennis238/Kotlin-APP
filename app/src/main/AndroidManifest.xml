@@ -72,6 +72,14 @@
         <activity
             android:name=".entidades.PoliticasCompletas2"
             android:label="@string/title_activity_politicas_completas2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".entidades.UbicacionesAnteriores"
+            android:label="@string/title_activity_ubicaciones_anteriores"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".entidades.IngresarVoz"
+            android:label="@string/title_activity_ingresar_voz"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
